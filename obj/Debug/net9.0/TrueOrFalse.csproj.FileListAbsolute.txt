@@ -1,0 +1,15 @@
+D:\c sharp\projects\TrueOrFalse\bin\Debug\net9.0\TrueOrFalse.exe
+D:\c sharp\projects\TrueOrFalse\bin\Debug\net9.0\TrueOrFalse.deps.json
+D:\c sharp\projects\TrueOrFalse\bin\Debug\net9.0\TrueOrFalse.runtimeconfig.json
+D:\c sharp\projects\TrueOrFalse\bin\Debug\net9.0\TrueOrFalse.dll
+D:\c sharp\projects\TrueOrFalse\bin\Debug\net9.0\TrueOrFalse.pdb
+D:\c sharp\projects\TrueOrFalse\obj\Debug\net9.0\TrueOrFalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp\projects\TrueOrFalse\obj\Debug\net9.0\TrueOrFalse.AssemblyInfoInputs.cache
+D:\c sharp\projects\TrueOrFalse\obj\Debug\net9.0\TrueOrFalse.AssemblyInfo.cs
+D:\c sharp\projects\TrueOrFalse\obj\Debug\net9.0\TrueOrFalse.csproj.CoreCompileInputs.cache
+D:\c sharp\projects\TrueOrFalse\obj\Debug\net9.0\TrueOrFalse.sourcelink.json
+D:\c sharp\projects\TrueOrFalse\obj\Debug\net9.0\TrueOrFalse.dll
+D:\c sharp\projects\TrueOrFalse\obj\Debug\net9.0\refint\TrueOrFalse.dll
+D:\c sharp\projects\TrueOrFalse\obj\Debug\net9.0\TrueOrFalse.pdb
+D:\c sharp\projects\TrueOrFalse\obj\Debug\net9.0\TrueOrFalse.genruntimeconfig.cache
+D:\c sharp\projects\TrueOrFalse\obj\Debug\net9.0\ref\TrueOrFalse.dll
